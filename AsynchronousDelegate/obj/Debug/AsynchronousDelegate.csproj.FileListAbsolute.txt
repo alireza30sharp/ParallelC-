@@ -1,0 +1,11 @@
+E:\project\AsynchronousDelegates\AsynchronousDelegate\bin\Debug\AsynchronousDelegate.exe.config
+E:\project\AsynchronousDelegates\AsynchronousDelegate\bin\Debug\AsynchronousDelegate.exe
+E:\project\AsynchronousDelegates\AsynchronousDelegate\bin\Debug\AsynchronousDelegate.pdb
+E:\project\AsynchronousDelegates\AsynchronousDelegate\obj\Debug\AsynchronousDelegate.csproj.AssemblyReference.cache
+E:\project\AsynchronousDelegates\AsynchronousDelegate\obj\Debug\AsynchronousDelegate.csproj.SuggestedBindingRedirects.cache
+E:\project\AsynchronousDelegates\AsynchronousDelegate\obj\Debug\AsynchronousDelegate.Form1.resources
+E:\project\AsynchronousDelegates\AsynchronousDelegate\obj\Debug\AsynchronousDelegate.Properties.Resources.resources
+E:\project\AsynchronousDelegates\AsynchronousDelegate\obj\Debug\AsynchronousDelegate.csproj.GenerateResource.cache
+E:\project\AsynchronousDelegates\AsynchronousDelegate\obj\Debug\AsynchronousDelegate.csproj.CoreCompileInputs.cache
+E:\project\AsynchronousDelegates\AsynchronousDelegate\obj\Debug\AsynchronousDelegate.exe
+E:\project\AsynchronousDelegates\AsynchronousDelegate\obj\Debug\AsynchronousDelegate.pdb

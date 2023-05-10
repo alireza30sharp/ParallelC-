@@ -1,0 +1,11 @@
+E:\project\AsynchronousDelegates\TaskProject\bin\Debug\TaskProject.exe.config
+E:\project\AsynchronousDelegates\TaskProject\bin\Debug\TaskProject.exe
+E:\project\AsynchronousDelegates\TaskProject\bin\Debug\TaskProject.pdb
+E:\project\AsynchronousDelegates\TaskProject\obj\Debug\TaskProject.csproj.AssemblyReference.cache
+E:\project\AsynchronousDelegates\TaskProject\obj\Debug\TaskProject.csproj.SuggestedBindingRedirects.cache
+E:\project\AsynchronousDelegates\TaskProject\obj\Debug\TaskProject.Form1.resources
+E:\project\AsynchronousDelegates\TaskProject\obj\Debug\TaskProject.Properties.Resources.resources
+E:\project\AsynchronousDelegates\TaskProject\obj\Debug\TaskProject.csproj.GenerateResource.cache
+E:\project\AsynchronousDelegates\TaskProject\obj\Debug\TaskProject.csproj.CoreCompileInputs.cache
+E:\project\AsynchronousDelegates\TaskProject\obj\Debug\TaskProject.exe
+E:\project\AsynchronousDelegates\TaskProject\obj\Debug\TaskProject.pdb

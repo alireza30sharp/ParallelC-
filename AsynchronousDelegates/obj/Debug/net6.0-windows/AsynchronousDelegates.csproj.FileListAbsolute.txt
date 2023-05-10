@@ -1,0 +1,17 @@
+E:\project\AsynchronousDelegates\AsynchronousDelegates\bin\Debug\net6.0-windows\AsynchronousDelegates.exe
+E:\project\AsynchronousDelegates\AsynchronousDelegates\bin\Debug\net6.0-windows\AsynchronousDelegates.deps.json
+E:\project\AsynchronousDelegates\AsynchronousDelegates\bin\Debug\net6.0-windows\AsynchronousDelegates.runtimeconfig.json
+E:\project\AsynchronousDelegates\AsynchronousDelegates\bin\Debug\net6.0-windows\AsynchronousDelegates.dll
+E:\project\AsynchronousDelegates\AsynchronousDelegates\bin\Debug\net6.0-windows\ref\AsynchronousDelegates.dll
+E:\project\AsynchronousDelegates\AsynchronousDelegates\bin\Debug\net6.0-windows\AsynchronousDelegates.pdb
+E:\project\AsynchronousDelegates\AsynchronousDelegates\obj\Debug\net6.0-windows\AsynchronousDelegates.csproj.AssemblyReference.cache
+E:\project\AsynchronousDelegates\AsynchronousDelegates\obj\Debug\net6.0-windows\AsynchronousDelegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\AsynchronousDelegates\AsynchronousDelegates\obj\Debug\net6.0-windows\AsynchronousDelegates.AssemblyInfoInputs.cache
+E:\project\AsynchronousDelegates\AsynchronousDelegates\obj\Debug\net6.0-windows\AsynchronousDelegates.AssemblyInfo.cs
+E:\project\AsynchronousDelegates\AsynchronousDelegates\obj\Debug\net6.0-windows\AsynchronousDelegates.csproj.CoreCompileInputs.cache
+E:\project\AsynchronousDelegates\AsynchronousDelegates\obj\Debug\net6.0-windows\AsynchronousDelegates.dll
+E:\project\AsynchronousDelegates\AsynchronousDelegates\obj\Debug\net6.0-windows\ref\AsynchronousDelegates.dll
+E:\project\AsynchronousDelegates\AsynchronousDelegates\obj\Debug\net6.0-windows\AsynchronousDelegates.pdb
+E:\project\AsynchronousDelegates\AsynchronousDelegates\obj\Debug\net6.0-windows\AsynchronousDelegates.genruntimeconfig.cache
+E:\project\AsynchronousDelegates\AsynchronousDelegates\obj\Debug\net6.0-windows\AsynchronousDelegates.Form1.resources
+E:\project\AsynchronousDelegates\AsynchronousDelegates\obj\Debug\net6.0-windows\AsynchronousDelegates.csproj.GenerateResource.cache
